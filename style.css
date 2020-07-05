@@ -1,0 +1,50 @@
+.container{
+    margin-bottom: 70px;
+}
+.carousel-item{
+    background-color: #fceae8;
+    padding: 20px 40px;
+    border-radius: 12px;
+   
+}
+.price{
+    color: #FF136E;
+}
+.button-price{
+    padding: 10px 25px;
+    color: white;
+    background-image: linear-gradient(to left,#ff136e,#c23b5d );
+    border: none;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+/* Categorie */
+
+.categorie1{
+    background: orange;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: #fff;
+}
+.categorie1 img{
+    width: 100px;
+}
+.categorie2{
+    background-color: orchid;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: #fff;
+}
+.categorie2 img{
+    width: 100px;
+   
+}
+.categorie3{
+    background-color: #928821;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: #fff;
+}
+.categorie3 img{
+    width: 100px;
+}
