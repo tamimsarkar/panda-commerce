@@ -48,3 +48,19 @@
 .categorie3 img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 10px 15px 20px lightgray;
+}
+.card-footer{
+    border-top: none;
+}
+.background{
+    background-color: #fceae8;
+   height: 350px;
+   border-radius: 10px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
